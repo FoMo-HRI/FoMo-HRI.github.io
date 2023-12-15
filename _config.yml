@@ -1,0 +1,14 @@
+
+title: Human - LLM Interaction
+description: Human - LLM Interaction.
+show_downloads: false
+google_analytics:
+email_address: d.hernandez_garcia@hw.ac.uk #daniel.hernandezgarcia@manchester.ac.uk
+
+
+
+show_excerpts: true
+
+
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme

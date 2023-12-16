@@ -4,7 +4,7 @@ subtitle: The dawn of a new era or the end of it all?
 layout: page
 hero_height: is-medium
 hero_link: /#dates/
-hero_link_text: Dates
+hero_link_text: Important Dates
 # callouts: callouts
 show_sidebar: false
 ---
@@ -22,6 +22,8 @@ artificial intelligence tasks, with a particular emphasis on those
 where human interactions form a key component.
 
 ## [](#format)Format
+
+This will be a half-day workshop.
 
 Format and Activities:
 

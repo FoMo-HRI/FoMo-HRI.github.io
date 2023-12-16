@@ -13,3 +13,5 @@ repository: dhgarcia/human-llm-interaction
 
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
+
+theme_color: '#361111'

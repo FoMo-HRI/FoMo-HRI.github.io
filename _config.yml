@@ -9,6 +9,7 @@ email_address: d.hernandez_garcia@hw.ac.uk #daniel.hernandezgarcia@manchester.ac
 
 show_excerpts: true
 
+repository: dhgarcia/human-llm-interaction
 
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme

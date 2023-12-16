@@ -2,7 +2,10 @@
 title: Human – Large Language Model Interaction
 subtitle: The dawn of a new era or the end of it all?
 layout: page
-# callouts: home_callouts
+hero_height: is-large
+hero_link: /#dates/
+hero_link_text: Example Call To Action
+# callouts: callouts
 show_sidebar: false
 ---
 

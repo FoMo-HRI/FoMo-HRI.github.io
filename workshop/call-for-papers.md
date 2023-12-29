@@ -49,15 +49,22 @@ Important Dates (All deadlines are at 23:59 Anywhere on Earth time):
 
 # [](#submission)Submission Instructions
 
-Submission Instructions:
+<!-- Submission Instructions: -->
 
-Participants are invited to submit 2-pages extended abstracts on research related to the topics described above using EasyChair [EasyChair link](https://easychair.org/conferences/?conf=hllmi24). 
+Participants are invited to submit 2-pages extended abstracts on research related to the topics described above using [EasyChair link](https://easychair.org/conferences/?conf=hllmi24). 
 
 We explicitly encourage the submission of position papers to discuss with the community or papers describing work in progress, novel ideas or new approaches related to the use of LLMs in HRI.   
 
 All manuscripts must be submitted in PDF format and will be peer-reviewed based on relevance to the workshop. 
 Authors are asked to adhere to the submission guidelines outlined by HRI2024. 
-Submissions should be made using the ACM template; Overleaf provides an appropriate template that may be used. 
+
+Submissions should be made using the [ACM template](https://www.acm.org/publications/proceedings-template); Overleaf provides an appropriate [template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) that may be used. 
+
+
+### [](#contact)Contact 
+
+All questions about submissions should be emailed to d.hernandez_garcia@hw.ac.uk or M.Romeo@hw.ac.uk  
+
 
 # [](#format)Format
 

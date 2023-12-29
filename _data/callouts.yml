@@ -3,29 +3,30 @@ height: is-medium
 items:
   - title: Human – Large Language Model Interaction
     subtitle: The dawn of a new era or the end of it all?
-    icon: fa-handshake
+    icon: fa-hat-wizard
     description: >
       Workshop during the 19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)
     call_to_action_name: Call for Papers
     call_to_action_link: /workshop/call-for-papers
 
-  - title: Example callout 2
-    subtitle: Example subtitle 2
+  - title: Dates
+    # subtitle: Example subtitle 2
     icon: fa-handshake
     description: >
-      The example description text goes here and can be multiple lines.
+      March 11, 2024 (Half-day workshop) 
+      
+      Submission deadline: February 2, 2024 
+      Notification of acceptance: February 23, 2024 
+    call_to_action_name: Instructions
+    call_to_action_link: /workshop/call-for-papers#submission
 
-      For example, such as this.
-    call_to_action_name: Call to action 2
-    call_to_action_link: /page-2/
+  # - title: Example callout 3
+  #   subtitle: Example subtitle 3
+  #   icon: fa-hat-wizard
+  #   icon_brand: true
+  #   description: >
+  #     The example description text goes here and can be multiple lines.
 
-  - title: Example callout 3
-    subtitle: Example subtitle 3
-    icon: fa-hat-wizard
-    icon_brand: true
-    description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this.
-    call_to_action_name: Call to action 3
-    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
+  #     For example, such as this.
+  #   call_to_action_name: Call to action 3
+  #   call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/

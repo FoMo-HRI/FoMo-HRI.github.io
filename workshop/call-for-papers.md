@@ -8,6 +8,7 @@ hero_height: is-medium
 hero_image: /images/llm-hri-crayon-generated-image.png
 hero_link_text: Click here to submit a contribution to the workshop
 hero_link: https://easychair.org/conferences/?conf=hllmi24
+css: page
 ---
 
 <!-- # Human – Large Language Model Interaction -->
@@ -40,7 +41,7 @@ If your work focuses on opportunities, risks, and guidelines for the use and rep
 
 # [](#dates)Important Dates
 
-Important Dates (All deadlines are at 23:59 Anywhere on Earth time):
+Important Dates (all deadlines are at 23:59 Anywhere on Earth time):
 
 - **Submission deadline:** February 2, 2024 
 

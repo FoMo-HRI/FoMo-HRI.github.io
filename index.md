@@ -1,6 +1,6 @@
 ---
 title: Human – Large Language Model Interaction
-subtitle: The dawn of a new era or the end of it all?
+# subtitle: The dawn of a new era or the end of it all?
 layout: page
 hero_height: is-medium
 # hero_link: /#dates/
@@ -9,7 +9,7 @@ callouts: callouts
 show_sidebar: false
 ---
 
-# Human – Large Language Model Interaction
+<!-- # Human – Large Language Model Interaction
 
 In this workshop, we want to gather, combine, compare, and share
 insights and knowledge across the wide HRI community on the pit-
@@ -56,4 +56,4 @@ Oliver Lemon
 
 Alessandro Suglia
 
-Matthew Aylett
+Matthew Aylett -->

@@ -1,21 +1,21 @@
-- name: Format
-  link: /#format
-- name: Dates
-  link: /#dates
-# - name: Example Pages
-#   link: /#
-#   dropdown:
-#     - name: Landing Page With Callouts
-#       link: /landing/
-#     - name: Sponsors Page
-#       link: /sponsors/
-#     - name: Image Gallery
-#       link: /gallery/
-#     - name: Products
-#       link: /products/
-#     - name: Recipe Page
-#       link: /example-recipe/
-#     - name: Showcase
-#       link: /showcase/
+# - name: HRI'24 Workshop
+#   link: /workshop/call-for-papers
+# - name: Dates
+#   link: /workshop/call-for-papers#dates
+- name: HRI'24 Workshop
+  link: /#
+  dropdown:
+    - name: Call for Papers
+      link: /workshop/call-for-papers
+    - name: Important Dates
+      link: /workshop/call-for-papers#dates
+    - name: Submission Guidelines
+      link: /workshop/call-for-papers#submission
+    - name: Workshop Schedule
+      link: /workshop/call-for-papers#schedule
+    # - name: Speakers
+    #   link: /workshop/call-for-papers#panels
+    # - name: Sponsors Page
+    #   link: /sponsors/
 - name: Organizers
   link: /#organizers

@@ -10,14 +10,12 @@ items:
     call_to_action_link: /workshop/call-for-papers
 
   - title: Dates
-    # subtitle: Example subtitle 2
+    subtitle: March 11, 2024 (Half-day workshop) 
     icon: fa-handshake
     description: >
-      March 11, 2024 (Half-day workshop) 
-      
       Submission deadline: February 2, 2024 
       Notification of acceptance: February 23, 2024 
-    call_to_action_name: Instructions
+    call_to_action_name: Submission Instructions
     call_to_action_link: /workshop/call-for-papers#submission
 
   # - title: Example callout 3

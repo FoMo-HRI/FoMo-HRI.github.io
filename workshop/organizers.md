@@ -6,7 +6,7 @@ subtitle: The dawn of a new era or the end of it all?
 image: /images/llm-hri-crayon-generated-image.png
 ---
 
-# Human – Large Language Model Interaction
+<!-- # Human – Large Language Model Interaction -->
 
 The Human - Large Language Model Interaction workshop aims at bringing together researchers and industry experts across all disciplines in the fields of Human-Robot Interaction and Artificial Intelligence for an interactive and interdisciplinary discussion around the enormous opportunities and challenges that emerge from integrating Large Language Models in the interactive, conversational and reasoning abilities of robots.   
 
@@ -16,9 +16,11 @@ The workshop aims to provide an important venue to encourage debate around issue
 ## [](#organizers)Organizers
 
 ***Daniel Hernández García*** is a postdoctoral research fellow at Heriot-Watt University and [The National Robotarium](https://thenationalrobotarium.com/). His current research focuses on developing socially aware robots with the capacity for cognitive interactions.
+
 Contact information: d.hernandez_garcia _ at _ hw.ac.uk
 
 ***Marta Romeo*** is an Assistant Professor in Computer Science at Heriot-Watt University, Edinburgh (UK). Her current research, within the UKRI TAS Node on Trust, focuses on investigating how trust between humans and robots can be built, maintained, and recovered.
+
 Contact information: m.romeo _ at _ hw.ac.uk
 
 ***Christian Dondrup*** is an Assistant Professor at Heriot-Watt University, Edinburgh (UK). His current research focuses on planning and task execution for HRI, Natural Language Processing for HRI, and social robots in health care.

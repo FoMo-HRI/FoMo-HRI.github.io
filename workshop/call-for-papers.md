@@ -6,7 +6,7 @@ description: In this workshop, we want to gather, combine, compare, and share in
 image: /images/llm-hri-crayon-generated-image.png
 ---
 
-# Human – Large Language Model Interaction
+<!-- # Human – Large Language Model Interaction -->
 
 The Human - Large Language Model Interaction workshop aims at bringing together researchers and industry experts across all disciplines in the fields of Human-Robot Interaction and Artificial Intelligence for an interactive and interdisciplinary discussion around the enormous opportunities and challenges that emerge from integrating Large Language Models in the interactive, conversational and reasoning abilities of robots.   
 
@@ -14,33 +14,7 @@ The workshop aims to provide an important venue to encourage debate around issue
 
 The primary audience of the workshop are researchers in the field of Human-Robot Interaction, Conversational Agents, Natural Language Processing, Artificial Intelligence, and Social Robotics, but we invite everyone with an interest or concern about the use of LLMs for HRI to join.
 
-
-## [](#dates)Important Dates
-
-Important Dates (All deadlines are at 23:59 Anywhere on Earth time):
-
-Submission deadline: February 2, 2024 
-
-Notification of acceptance: February 23, 2024 
-
-Camera-ready deadline: March 1, 2024 
-
-Workshop: March 11, 2024 
-
-
-## [](#submission)Submission Instructions
-
-Submission Instructions:
-
-Participants are invited to submit 2-pages extended abstracts on research related to the topics described above using EasyChair [EasyChair link](https://easychair.org/conferences/?conf=hllmi24). 
-
-We explicitly encourage the submission of position papers to discuss with the community or papers describing work in progress, novel ideas or new approaches related to the use of LLMs in HRI.   
-
-All manuscripts must be submitted in PDF format and will be peer-reviewed based on relevance to the workshop. 
-Authors are asked to adhere to the submission guidelines outlined by HRI2024. 
-Submissions should be made using the ACM template; Overleaf provides an appropriate template that may be used. 
-
-### Topics of Interest
+## Topics of Interest
 We invite research regarding contributions about (but not limited to) the following topics of interest:
 
 - Applications for LLMs in HRI 
@@ -60,7 +34,32 @@ This workshop is generally focused on any topics related to the development, imp
 If your work focuses on opportunities, risks, and guidelines for the use and reporting of LLMs in HRI, please also consider our companion workshop, ***[Scarecrows in Oz: LLMs in HRI](https://scarecrows-hri.github.io)***.
 
 
-## [](#format)Format
+# [](#dates)Important Dates
+
+Important Dates (All deadlines are at 23:59 Anywhere on Earth time):
+
+- **Submission deadline:** February 2, 2024 
+
+- **Notification of acceptance:** February 23, 2024 
+
+- **Camera-ready deadline:** March 1, 2024 
+
+- **Workshop:** March 11, 2024 
+
+
+# [](#submission)Submission Instructions
+
+Submission Instructions:
+
+Participants are invited to submit 2-pages extended abstracts on research related to the topics described above using EasyChair [EasyChair link](https://easychair.org/conferences/?conf=hllmi24). 
+
+We explicitly encourage the submission of position papers to discuss with the community or papers describing work in progress, novel ideas or new approaches related to the use of LLMs in HRI.   
+
+All manuscripts must be submitted in PDF format and will be peer-reviewed based on relevance to the workshop. 
+Authors are asked to adhere to the submission guidelines outlined by HRI2024. 
+Submissions should be made using the ACM template; Overleaf provides an appropriate template that may be used. 
+
+# [](#format)Format
 
 This will be a half-day workshop.
 

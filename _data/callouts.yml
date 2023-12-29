@@ -3,8 +3,8 @@ height: is-medium
 items:
   - title: Human – LLM Interaction
     subtitle: The dawn of a new era or the end of it all?
+    icon: fa-handshake
     # icon: fa-hat-wizard
-    icon: fa-paint-roller
     description: >
       Workshop during the 19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)
     call_to_action_name: Call for Papers
@@ -12,7 +12,8 @@ items:
 
   - title: Dates
     subtitle: March 11, 2024 (Half-day workshop) 
-    icon: fa-handshake
+    icon: fa-trowel-bricks
+    icon: fa-paint-roller
     description: >
       Submission deadline: February 2, 2024 
 

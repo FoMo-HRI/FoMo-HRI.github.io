@@ -4,7 +4,10 @@ title: Human – Large Language Model Interaction
 subtitle: The dawn of a new era or the end of it all?
 description: In this workshop, we want to gather, combine, compare, and share insights and knowledge across the wide HRI community on the pitfalls and opportunities that the application of LLMs in HRI research can present.
 # image: /images/llm-hri-crayon-generated-image.png
+hero_height: is-medium
 hero_image: /images/llm-hri-crayon-generated-image.png
+hero_link_text: Click here to submit a contribution to the workshop
+hero_link: https://easychair.org/conferences/?conf=hllmi24
 ---
 
 <!-- # Human – Large Language Model Interaction -->

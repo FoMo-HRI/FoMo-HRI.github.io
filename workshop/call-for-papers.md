@@ -53,9 +53,11 @@ We invite research regarding contributions about (but not limited to) the follow
 - Reliability and Safety of LLM-powered interactive robots 
 - Trustworthiness of LLM-powered interactive robots
 
-While we are generally interested in any topics related to the development, implementation, training, evaluation, and deployment of Large Language Models in Human-Robot Interaction scenarios. 
-Please consider whether your work would present a better fit in our ***friend workshop [Scarecrows in Oz (LLMs in HRI)](https://scarecrows-hri.github.io/)*** before submitting.
+<!-- While we are generally interested in any topics related to the development, implementation, training, evaluation, and deployment of Large Language Models in Human-Robot Interaction scenarios.  -->
+<!-- Please consider whether your work would present a better fit in our ***friend workshop [Scarecrows in Oz (LLMs in HRI)](https://scarecrows-hri.github.io/)*** before submitting. -->
 
+This workshop is generally focused on any topics related to the development, implementation, training, evaluation, and deployment of Large Language Models in Human-Robot Interaction scenarios.
+If your work focuses on opportunities, risks, and guidelines for the use and reporting of LLMs in HRI, please also consider our companion workshop, ***[Scarecrows in Oz: LLMs in HRI](https://scarecrows-hri.github.io)***.
 
 
 ## [](#format)Format

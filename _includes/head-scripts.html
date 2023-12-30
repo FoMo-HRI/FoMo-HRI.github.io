@@ -1,1 +1,6 @@
 <!-- head scripts -->
+{% if page.css %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ page.css }}.css">
+{% else %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/app.css">
+{% endif %}

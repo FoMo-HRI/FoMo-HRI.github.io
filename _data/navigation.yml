@@ -6,16 +6,18 @@
   link: /#
   dropdown:
     - name: Call for Papers
-      link: /workshop/call-for-papers
+      link: /workshop/hri24/call-for-papers
     - name: Important Dates
-      link: /workshop/call-for-papers#dates
+      link: /workshop/hri24/call-for-papers#dates
     - name: Submission Guidelines
-      link: /workshop/call-for-papers#submission
+      link: /workshop/hri24/call-for-papers#submission
     - name: Workshop Schedule
-      link: /workshop/call-for-papers#schedule
+      link: /workshop/hri24/program#schedule
     # - name: Speakers
-    #   link: /workshop/call-for-papers#panels
+    #   link: /workshop/hri24/program#panels
     # - name: Sponsors Page
-    #   link: /sponsors/
-- name: Organizers
-  link: /workshop/organizers
+    #   link: /workshop/hri24/sponsors/
+    - name: Organising Team
+      link: /workshop/hri24/organisers
+- name: Contact
+  link: /contact

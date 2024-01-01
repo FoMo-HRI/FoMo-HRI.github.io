@@ -6,7 +6,7 @@ description: In this workshop, we want to gather, combine, compare, and share in
 # image: /images/llm-hri-crayon-generated-image.png
 hero_height: is-medium
 hero_image: /images/llm-hri-crayon-generated-image.png
-hero_link_text: Click here to submit a contribution to the workshop
+hero_link_text: Click here to submit
 hero_link: https://easychair.org/conferences/?conf=hllmi24
 css: page
 ---
@@ -66,42 +66,22 @@ Authors are asked to adhere to the submission guidelines outlined by HRI2024.
 Submissions should be made using the [ACM template](https://www.acm.org/publications/proceedings-template); Overleaf provides an appropriate [template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) that may be used. 
 
 
+The authors of the accepted papers will present their work in the format of lightning talks or posters during the workshop. The accepted papers will be published on the workshop website. 
+
 ### [](#contact)Contact 
 
 All questions about submissions should be emailed to d.hernandez_garcia@hw.ac.uk or M.Romeo@hw.ac.uk  
 
 
-# [](#format)Format
+<!-- # [](#format)Format
 
-This will be a half-day workshop.
+This will be a half-day workshop. -->
 
-The authors of the accepted papers will present their work in the format of lightning talks or posters during the workshop. The accepted papers will be published on the workshop website. 
 
 <!-- Format and Activities: -->
 
 
-## [](#schedule)Schedule
+<!-- ## [](#schedule)Schedule
 
-Schedule: COMING SOON!...
+Schedule: COMING SOON!... -->
 
-
-
-<!-- ## [](#organizers)Organizers
-
-Daniel Hernández García
-
-Marta Romeo
-
-Christian Dondrup
-
-Nancie Gunson
-
-Angus Addlesee
-
-Weronika Sieińska
-
-Oliver Lemon
-
-Alessandro Suglia
-
-Matthew Aylett -->

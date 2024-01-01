@@ -2,11 +2,8 @@
 layout: page
 title: Human – Large Language Model Interaction
 subtitle: The dawn of a new era or the end of it all?
-description: In this workshop, we want to gather, combine, compare, and share insights and knowledge across the wide HRI community on the pitfalls and opportunities that the application of LLMs in HRI research can present.
-hero_height: is-medium
-hero_image: /images/llm-hri-crayon-generated-image.png
-hero_link_text: Click here to submit
-hero_link: https://easychair.org/conferences/?conf=hllmi24
+# description: In this workshop, we want to gather, combine, compare, and share insights and knowledge across the wide HRI community on the pitfalls and opportunities that the application of LLMs in HRI research can present.
+image: /images/llm-hri-crayon-generated-image.png
 css: page
 ---
 
@@ -21,11 +18,11 @@ The workshop aims to provide an important venue to encourage debate around issue
 
 ***Daniel Hernández García*** is a postdoctoral research fellow at Heriot-Watt University and [The National Robotarium](https://thenationalrobotarium.com/). His current research focuses on developing socially aware robots with the capacity for cognitive interactions.
 
-<!-- Contact information: d.hernandez_garcia _ at _ hw.ac.uk -->
+Contact information: d.hernandez_garcia _ at _ hw.ac.uk
 
 ***Marta Romeo*** is an Assistant Professor in Computer Science at Heriot-Watt University, Edinburgh (UK). Her current research, within the UKRI TAS Node on Trust, focuses on investigating how trust between humans and robots can be built, maintained, and recovered.
 
-<!-- Contact information: m.romeo _ at _ hw.ac.uk -->
+Contact information: m.romeo _ at _ hw.ac.uk
 
 ***Christian Dondrup*** is an Assistant Professor at Heriot-Watt University, Edinburgh (UK). His current research focuses on planning and task execution for HRI, Natural Language Processing for HRI, and social robots in health care.
 

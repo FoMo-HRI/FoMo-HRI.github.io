@@ -11,4 +11,4 @@ show_sidebar: false
 
 # [](#contact)Contact 
 
-All questions should be emailed to d.hernandez_garcia@hw.ac.uk or M.Romeo@hw.ac.uk  
+All questions should be emailed to d.hernandez_garcia _ at _ hw.ac.uk or m.romeo _ at _ hw.ac.uk  

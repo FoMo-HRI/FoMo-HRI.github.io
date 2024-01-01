@@ -13,16 +13,18 @@ The Human - Large Language Model Interaction workshop aims at bringing together 
 
 The workshop aims to provide an important venue to encourage debate around issues concerning the deployment of Large Language Models empowered solutions for human-robot interaction. This will be an opportunity to share and discuss ideas, worries, strategies, insights and findings around the application of Large Language Models in interaction scenarios.   
 
+The workshop will take place on March 11, 2024 at Boulder, Colorado (USA) during the [19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)](https://humanrobotinteraction.org/2024/)
+
 
 ## [](#organizers)Organizers
 
 ***Daniel Hernández García*** is a postdoctoral research fellow at Heriot-Watt University and [The National Robotarium](https://thenationalrobotarium.com/). His current research focuses on developing socially aware robots with the capacity for cognitive interactions.
 
-Contact information: d.hernandez_garcia _ at _ hw.ac.uk
+<!-- Contact information: d.hernandez_garcia _ at _ hw.ac.uk -->
 
 ***Marta Romeo*** is an Assistant Professor in Computer Science at Heriot-Watt University, Edinburgh (UK). Her current research, within the UKRI TAS Node on Trust, focuses on investigating how trust between humans and robots can be built, maintained, and recovered.
 
-Contact information: m.romeo _ at _ hw.ac.uk
+<!-- Contact information: m.romeo _ at _ hw.ac.uk -->
 
 ***Christian Dondrup*** is an Assistant Professor at Heriot-Watt University, Edinburgh (UK). His current research focuses on planning and task execution for HRI, Natural Language Processing for HRI, and social robots in health care.
 

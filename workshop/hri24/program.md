@@ -19,6 +19,8 @@ The workshop aims to provide an important venue to encourage debate around issue
 
 The primary audience of the workshop are researchers in the field of Human-Robot Interaction, Conversational Agents, Natural Language Processing, Artificial Intelligence, and Social Robotics, but we invite everyone with an interest or concern about the use of LLMs for HRI to join.
 
+The workshop will take place on March 11, 2024 at Boulder, Colorado (USA) during the [19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)](https://humanrobotinteraction.org/2024/)
+
 # [](#format)Format
 
 This will be a half-day workshop.

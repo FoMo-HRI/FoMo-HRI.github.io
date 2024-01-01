@@ -16,6 +16,8 @@ The Human - Large Language Model Interaction workshop aims at bringing together 
 
 The workshop aims to provide an important venue to encourage debate around issues concerning the deployment of Large Language Models empowered solutions for human-robot interaction. This will be an opportunity to share and discuss ideas, worries, strategies, insights and findings around the application of Large Language Models in interaction scenarios.   
 
+The workshop will take place on March 11, 2024 at Boulder, Colorado (USA) during the [19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)](https://humanrobotinteraction.org/2024/)
+
 
 ## [](#organizers)Organizers
 

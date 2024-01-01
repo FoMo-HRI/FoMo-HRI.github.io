@@ -19,6 +19,8 @@ The workshop aims to provide an important venue to encourage debate around issue
 
 The primary audience of the workshop are researchers in the field of Human-Robot Interaction, Conversational Agents, Natural Language Processing, Artificial Intelligence, and Social Robotics, but we invite everyone with an interest or concern about the use of LLMs for HRI to join.
 
+The workshop will take place on March 11, 2024 at Boulder, Colorado (USA) during the [19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)](https://humanrobotinteraction.org/2024/)
+
 ## Topics of Interest
 We invite research regarding contributions about (but not limited to) the following topics of interest:
 
@@ -70,7 +72,7 @@ The authors of the accepted papers will present their work in the format of ligh
 
 ### [](#contact)Contact 
 
-All questions about submissions should be emailed to d.hernandez_garcia@hw.ac.uk or M.Romeo@hw.ac.uk  
+All questions about submissions should be emailed to d.hernandez_garcia _ at _ hw.ac.uk or m.romeo _ at _ hw.ac.uk
 
 
 <!-- # [](#format)Format

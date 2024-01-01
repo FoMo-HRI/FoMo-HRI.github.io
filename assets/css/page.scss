@@ -3,10 +3,11 @@
 
 $yellow:  hsl(48, 100%, 67%);
 $green:	  hsl(141, 71%, 48%);
-$white:	  hsl(153, 35%, 88%);
+$white:	  hsl(202, 31%, 73%);
 $success: $green;
 $warning: $yellow;
-$primary: #244d50;
-$info: #1eacb6;
+$primary: #4d7084;
+$primary: #a4bfcf;
+$info: #2781b6;
 // Import Main CSS file from theme
 @import "main";

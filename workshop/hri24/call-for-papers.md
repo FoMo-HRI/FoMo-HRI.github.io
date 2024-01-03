@@ -24,12 +24,12 @@ The workshop will take place on March 11, 2024 at Boulder, Colorado (USA) during
 ## Topics of Interest
 We invite research regarding contributions about (but not limited to) the following topics of interest:
 
-- Applications for LLMs in HRI 
+- Applications of LLMs in HRI 
 - Multimodal social interaction research with LLMs 
-- Planning tasks with LLMs for HRI 
+- Planning and decision making with LLMs for HRI 
 - Reasoning and knowledge representation using LLMs 
-- Decision making and grounding using LLMs 
-- Situated and Multiparty interactions with LLMs 
+- Situated interactions and grounding using LLMs 
+- Multiparty interactions using LLMs 
 - Explainability of LLM-powered interactive robots 
 - Reliability and Safety of LLM-powered interactive robots 
 - Trustworthiness of LLM-powered interactive robots

@@ -1,4 +1,4 @@
-style: is-dark
+style: is-ligth
 height: is-medium
 items:
   - title: 
@@ -14,7 +14,7 @@ items:
 
   - title: 
     subtitle: 
-    icon: fa-calendar-days
+    icon: fa-calendar
     description: >
       March 11, 2024 (Half-day workshop) 
     call_to_action_name: Workshop Schedule
@@ -22,10 +22,10 @@ items:
 
   - title: 
     subtitle: 
-    icon: fa-people-group
+    icon: fa-user-group
     # icon_brand: true
     description: >
-      
+      Organising team
     call_to_action_name: Organisers
     call_to_action_link: /workshop/hri24/organisers
 

@@ -9,6 +9,7 @@ hero_image: /images/llm-hri-crayon-generated-image.png
 hero_link_text: Click here to submit
 hero_link: https://easychair.org/conferences/?conf=hllmi24
 css: page
+callouts: callouts_hri24_ws
 ---
 
 <!-- # Human – Large Language Model Interaction -->

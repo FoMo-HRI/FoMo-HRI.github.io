@@ -3,7 +3,7 @@
 # - name: Dates
 #   link: /workshop/call-for-papers#dates
 - name: HRI'24 Workshop
-  link: /#
+  link: /workshop/hri24/#
   dropdown:
     - name: Call for Papers
       link: /workshop/hri24/call-for-papers

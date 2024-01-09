@@ -1,0 +1,32 @@
+style: is-dark
+height: is-medium
+items:
+  - title: 
+    subtitle: 
+    icon: fa-handshake
+    # icon: fa-hat-wizard
+    description: >
+      Submission deadline: February 2, 2024 
+
+      Notification of acceptance: February 23, 2024 
+    call_to_action_name: Call for Papers
+    call_to_action_link: /workshop/hri24/call-for-papers
+
+  - title: 
+    subtitle: 
+    icon: fa-calendar-days
+    description: >
+      March 11, 2024 (Half-day workshop) 
+    call_to_action_name: Workshop Schedule
+    call_to_action_link: /workshop/hri24/program
+
+  - title: 
+    subtitle: 
+    icon: fa-people-group
+    # icon_brand: true
+    description: >
+      
+    call_to_action_name: Organisers
+    call_to_action_link: /workshop/hri24/organisers
+
+  

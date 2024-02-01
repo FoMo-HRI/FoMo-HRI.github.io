@@ -45,9 +45,9 @@ If your work focuses on opportunities, risks, and guidelines for the use and rep
 
 Important Dates (all deadlines are at 23:59 Anywhere on Earth time):
 
-- **Submission deadline:** February 2, 2024 
+- **Submission deadline:** February 19, 2024 **Extended**
 
-- **Notification of acceptance:** February 23, 2024 
+- **Notification of acceptance:** February 29, 2024 
 
 - **Camera-ready deadline:** March 1, 2024 
 

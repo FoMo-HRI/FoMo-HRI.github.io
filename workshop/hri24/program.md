@@ -39,8 +39,8 @@ The workshop will take place in the conference [venue](https://www.colorado.edu/
 
 Schedule: 
 
-- 2:00 WS Intro
-- 2:00 - 3:00 Panel "Reliability, Safety and Trustworthiness of LLMs in HRI"
+- 2:00 **WS Intro**
+- 2:00 - 3:00 **Panel "Reliability, Safety and Trustworthiness of LLMs in HRI"**
 
 
 | Panelist: |  |  |  |
@@ -48,10 +48,10 @@ Schedule:
 | Kevin Klyman <br>(Stanford University) | Cynthia Matuszek <br>(University of Maryland, Baltimore County) | Casey Kennington <br>(Boise State University) | Joel Fischer <br>(University of Nottingham) |
 
 
-- 3:00 - 3:30 Lightning Talks
+- 3:00 - 3:30 **Lightning Talks**
 
 
-| Title | Description |
+| Title | Authors |
 | --- | ----------- |
 | [Safety and Accountability for Large Language Model Use in HRI]() | Christine T. Chang and Bradley Hayes |
 | [Large Language Models Enable Automated Formative Feedback in Human-Robot Interaction Tasks]() | Emily Jensen, Sriram Sankaranarayanan and Bradley Hayes |
@@ -67,13 +67,13 @@ Schedule:
 | [Perceived Credibility of LLM Responses in Search Contexts]() | Abhinav Choudhry, Kyrie Zhixuan Zhou and Rachel F. Adler |
 
 
-- 3:30 - 4:00 Coffee Break
-- 4:00 - 5:00 Panel "Capabilities and Limitations of LLMs in HRI"
+- 3:30 - 4:00 **Coffee Break**
+- 4:00 - 5:00 **Panel "Capabilities and Limitations of LLMs in HRI"**
 
 | Panelist: |  |  |  |
 |    :----:   |    :----:   |    :----:   |    :----:   |
 | Carolina Parada <br>(Google DeepMind Robotics) | Bilge Mutlu <br>(University of Wisconsin–Madison) | Micol Spitale <br>(Politecnico di Milano) | Tony Belpaeme <br>(Ghent University) |
 
 
-- 5:00 - 5:50 Grand Debate LLMs, the dawn of a new era or the end of it all?
-- 5:50 - 6:00 Closure
+- 5:00 - 5:50 **Grand Debate LLMs, the dawn of a new era or the end of it all?**
+- 5:50 - 6:00 **Closure**

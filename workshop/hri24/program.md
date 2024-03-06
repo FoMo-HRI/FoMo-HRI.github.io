@@ -33,11 +33,10 @@ The accepted papers will be published on the workshop website.
 
 <!-- Format and Activities: -->
 
-[HRI 2024 Worshops](https://humanrobotinteraction.org/2024/workshops-and-tutorials/)
-
-The workshop will take place in the conference [venue](https://www.colorado.edu/umc/maps), room UMC 386 in the [University Memorial Center in the University of Colorado Boulder](https://maps.app.goo.gl/dTmh4GpLbLt3B7uQ6)
 
 # [](#schedule)Schedule
+
+The [workshop](https://humanrobotinteraction.org/2024/workshops-and-tutorials/) will take place in the conference [venue](https://www.colorado.edu/umc/maps), room UMC 386 in the [University Memorial Center in the University of Colorado Boulder](https://maps.app.goo.gl/dTmh4GpLbLt3B7uQ6)
 
 Schedule: 
 

@@ -52,18 +52,18 @@ Schedule:
 
 | Title | Description |
 | --- | ----------- |
-| Safety and Accountability for Large Language Model Use in HRI | 01 |
-| Large Language Models Enable Automated Formative Feedback in Human-Robot Interaction Tasks | 02 |
-| Reference-Guided Robotic Photography Through Natural Language Interaction | 03 |
-| Intelligent Robotic Tutoring: Integrating Verbal Input for Personalizing Learning Responses | 04 |
-| Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Foundation Models | 05 |
-| An Overview of Dobby, A Conversational Service Robot | 06 |
-| Prototype of a Care Documentation Support System Using Audio Recordings of Care Actions and Large Language Models | 07 |
-| Toward LLM-Powered Robots In Engineering Education | 08 |
-| Leveraging Vision and Language Models for Zero-Shot, Personalization of Household Multi-Object Rearrangement Tasks | 09 |
-| Profiled with Purpose: LLMs’ Role in User Profiles for Personalized Conversations | 10 |
-| Enhancing Urban Data Analysis through Large Language Models: A Case Study with NYC 311 Service Requests | 11 |
-| Perceived Credibility of LLM Responses in Search Contexts | 12 |
+| [Safety and Accountability for Large Language Model Use in HRI]() | Christine T. Chang and Bradley Hayes |
+| [Large Language Models Enable Automated Formative Feedback in Human-Robot Interaction Tasks]() | Emily Jensen, Sriram Sankaranarayanan and Bradley Hayes |
+| [Reference-Guided Robotic Photography Through Natural Language Interaction]() | Oliver Limoyo, Jimmy Li, Dmitriy Rivkin, Jonathan Kelly and Gregory Dudek |
+| [Intelligent Robotic Tutoring: Integrating Verbal Input for Personalizing Learning Responses]() | Puming Jiang and Nicole Salomons |
+| [Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Foundation Models]() | Linus Nwankwo and Elmar Rueckert |
+| [An Overview of Dobby, A Conversational Service Robot]() | Carson Stark, Bohkyung Chun, Casey Charleston, Varsha Ravi, Luis Pabon, Surya Sunkari, Tarun Mohan, Peter Stone and Justin Hart |
+| [Prototype of a Care Documentation Support System Using Audio Recordings of Care Actions and Large Language Models]() | Matthias Hirschmanner, Reinhard Grabler, Helena Anna Frijns, Evelyn Mayer-Haas and Markus Vincze |
+| [Toward LLM-Powered Robots In Engineering Education]() | C. Estelle Smith, Alemitu Bezabih, Shadi Nourriz, Bo Wo and Gabe Fierro |
+| [Leveraging Vision and Language Models for Zero-Shot, Personalization of Household Multi-Object Rearrangement Tasks]() | Benjamin Newman, Pranay Gupta, Kris M. Kitani, Yonatan Bisk, Chris Paxton and Henny Admoni |
+| [Profiled with Purpose: LLMs’ Role in User Profiles for Personalized Conversations]() | Manasi Swaminathan, Long-Jing Hsu, Rasika Muralidharan, Weslie Khoo, David J. Crandall and Selma Šabanović |
+| [Enhancing Urban Data Analysis through Large Language Models: A Case Study with NYC 311 Service Requests]() | Hedaya Walter, Emily Portalatin-Mendez, Brian Smith, Jennifer Laird and Jorge Ortiz |
+| [Perceived Credibility of LLM Responses in Search Contexts]() | Abhinav Choudhry, Kyrie Zhixuan Zhou and Rachel F. Adler |
 
 
 - 3:30 - 4:00 Coffee Break

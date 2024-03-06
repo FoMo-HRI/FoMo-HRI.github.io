@@ -7,8 +7,8 @@ items:
     # icon: fa-hat-wizard
     description: >
       Workshop during the 19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)
-    call_to_action_name: Call for Papers
-    call_to_action_link: /workshop/hri24/call-for-papers
+    call_to_action_name: Schedule
+    call_to_action_link: /workshop/hri24/program
 
   - title: Dates
     subtitle: March 11, 2024 (Half-day workshop) 
@@ -20,7 +20,7 @@ items:
 
       Notification of acceptance: February 23, 2024 
     call_to_action_name: Submission Instructions
-    call_to_action_link: /workshop/hri24/call-for-papers#submission
+    call_to_action_link: /workshop/hri24/call-for-papers
 
   # - title: Example callout 3
   #   subtitle: Example subtitle 3

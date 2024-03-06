@@ -43,6 +43,7 @@ Schedule:
 - 2:00 - 3:00 Panel "Reliability, Safety and Trustworthiness of LLMs in HRI"
 
 
+| Panelist: |  |  |  |
 |    :----:   |    :----:   |    :----:   |    :----:   |
 | Kevin Klyman <br>(Stanford University) | Cynthia Matuszek <br>(University of Maryland, Baltimore County) | Casey Kennington <br>(Boise State University) | Joel Fischer <br>(University of Nottingham) |
 
@@ -69,7 +70,7 @@ Schedule:
 - 3:30 - 4:00 Coffee Break
 - 4:00 - 5:00 Panel "Capabilities and Limitations of LLMs in HRI"
 
-
+| Panelist: |  |  |  |
 |    :----:   |    :----:   |    :----:   |    :----:   |
 | Carolina Parada <br>(Google DeepMind Robotics) | Bilge Mutlu <br>(University of Wisconsin–Madison) | Micol Spitale <br>(Politecnico di Milano) | Tony Belpaeme <br>(Ghent University) |
 

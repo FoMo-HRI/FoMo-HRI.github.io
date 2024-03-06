@@ -41,12 +41,18 @@ Schedule:
 
 - 2:00 WS Intro
 - 2:00 - 3:00 Panel "Reliability, Safety and Trustworthiness of LLMs in HRI"
+
+
 | Kevin Klyman (Stanford University) | Cynthia Matuszek (University of Maryland, Baltimore County) | Casey Kennington (Boise State University) | Joel Fischer (University of Nottingham) |
+
+
 - 3:00 - 3:30 Lightning Talks
+
+
 | Title | Description |
 | --- | ----------- |
-|  | 01 |
-|  | 02 |
+| Safety and Accountability for Large Language Model Use in HRI | 01 |
+| Large Language Models Enable Automated Formative Feedback in Human-Robot Interaction Tasks | 02 |
 |  | 03 |
 |  | 04 |
 |  | 05 |
@@ -57,8 +63,14 @@ Schedule:
 |  | 10 |
 |  | 11 |
 |  | 12 |
+
+
 - 3:30 - 4:00 Coffee Break
 - 4:00 - 5:00 Panel "Capabilities and Limitations of LLMs in HRI"
+
+
 | Carolina Parada (Google DeepMind Robotics) | Bilge Mutlu (University of Wisconsin–Madison) | Micol Spitale (Politecnico di Milano) | Tony Belpaeme (Ghent University) |
+
+
 - 5:00 - 5:50 Grand Debate LLMs, the dawn of a new era or the end of it all?
 - 5:50 - 6:00 Closure

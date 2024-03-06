@@ -31,8 +31,34 @@ The accepted papers will be published on the workshop website.
 
 <!-- Format and Activities: -->
 
+[HRI 2024 Worshops](https://humanrobotinteraction.org/2024/workshops-and-tutorials/)
+
+The workshop will take place in the conference [venue](https://www.colorado.edu/umc/maps), room UMC 386 in the [University Memorial Center in the University of Colorado Boulder](https://maps.app.goo.gl/dTmh4GpLbLt3B7uQ6)
 
 # [](#schedule)Schedule
 
-Schedule: COMING SOON!...
+Schedule: 
 
+- 2:00 WS Intro
+- 2:00 - 3:00 Panel "Reliability, Safety and Trustworthiness of LLMs in HRI"
+| Kevin Klyman (Stanford University) | Cynthia Matuszek (University of Maryland, Baltimore County) | Casey Kennington (Boise State University) | Joel Fischer (University of Nottingham) |
+- 3:00 - 3:30 Lightning Talks
+| Title | Description |
+| --- | ----------- |
+|  | 01 |
+|  | 02 |
+|  | 03 |
+|  | 04 |
+|  | 05 |
+|  | 06 |
+|  | 07 |
+|  | 08 |
+|  | 09 |
+|  | 10 |
+|  | 11 |
+|  | 12 |
+- 3:30 - 4:00 Coffee Break
+- 4:00 - 5:00 Panel "Capabilities and Limitations of LLMs in HRI"
+| Carolina Parada (Google DeepMind Robotics) | Bilge Mutlu (University of Wisconsin–Madison) | Micol Spitale (Politecnico di Milano) | Tony Belpaeme (Ghent University) |
+- 5:00 - 5:50 Grand Debate LLMs, the dawn of a new era or the end of it all?
+- 5:50 - 6:00 Closure

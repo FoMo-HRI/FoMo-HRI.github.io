@@ -53,16 +53,16 @@ Schedule:
 | --- | ----------- |
 | Safety and Accountability for Large Language Model Use in HRI | 01 |
 | Large Language Models Enable Automated Formative Feedback in Human-Robot Interaction Tasks | 02 |
-|  | 03 |
-|  | 04 |
-|  | 05 |
-|  | 06 |
-|  | 07 |
-|  | 08 |
-|  | 09 |
-|  | 10 |
-|  | 11 |
-|  | 12 |
+| Reference-Guided Robotic Photography Through Natural Language Interaction | 03 |
+| Intelligent Robotic Tutoring: Integrating Verbal Input for Personalizing Learning Responses | 04 |
+| Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Foundation Models | 05 |
+| An Overview of Dobby, A Conversational Service Robot | 06 |
+| Prototype of a Care Documentation Support System Using Audio Recordings of Care Actions and Large Language Models | 07 |
+| Toward LLM-Powered Robots In Engineering Education | 08 |
+| Leveraging Vision and Language Models for Zero-Shot, Personalization of Household Multi-Object Rearrangement Tasks | 09 |
+| Profiled with Purpose: LLMs’ Role in User Profiles for Personalized Conversations | 10 |
+| Enhancing Urban Data Analysis through Large Language Models: A Case Study with NYC 311 Service Requests | 11 |
+| Perceived Credibility of LLM Responses in Search Contexts | 12 |
 
 
 - 3:30 - 4:00 Coffee Break

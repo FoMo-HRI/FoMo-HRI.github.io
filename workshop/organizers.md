@@ -5,8 +5,10 @@ subtitle: The dawn of a new era or the end of it all?
 description: In this workshop, we want to gather, combine, compare, and share insights and knowledge across the wide HRI community on the pitfalls and opportunities that the application of LLMs in HRI research can present.
 hero_height: is-medium
 hero_image: /images/llm-hri-crayon-generated-image.png
-hero_link_text: Click here to submit
-hero_link: https://easychair.org/conferences/?conf=hllmi24
+# hero_link_text: Click here to submit
+# hero_link: https://easychair.org/conferences/?conf=hllmi24
+hero_link_text: Post your questions to our Panels
+hero_link: https://forms.office.com/e/4aSxyx44Yk
 css: page
 ---
 

@@ -43,7 +43,7 @@ Schedule:
 - 2:00 - 3:00 Panel "Reliability, Safety and Trustworthiness of LLMs in HRI"
 
 
-| Kevin Klyman (Stanford University) | Cynthia Matuszek (University of Maryland, Baltimore County) | Casey Kennington (Boise State University) | Joel Fischer (University of Nottingham) |
+| Kevin Klyman <br>(Stanford University) | Cynthia Matuszek <br>(University of Maryland, Baltimore County) | Casey Kennington <br>(Boise State University) | Joel Fischer <br>(University of Nottingham) |
 
 
 - 3:00 - 3:30 Lightning Talks
@@ -69,7 +69,7 @@ Schedule:
 - 4:00 - 5:00 Panel "Capabilities and Limitations of LLMs in HRI"
 
 
-| Carolina Parada (Google DeepMind Robotics) | Bilge Mutlu (University of Wisconsin–Madison) | Micol Spitale (Politecnico di Milano) | Tony Belpaeme (Ghent University) |
+| Carolina Parada <br>(Google DeepMind Robotics) | Bilge Mutlu <br>(University of Wisconsin–Madison) | Micol Spitale <br>(Politecnico di Milano) | Tony Belpaeme <br>(Ghent University) |
 
 
 - 5:00 - 5:50 Grand Debate LLMs, the dawn of a new era or the end of it all?

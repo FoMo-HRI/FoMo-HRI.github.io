@@ -60,11 +60,11 @@ Schedule:
 | [Intelligent Robotic Tutoring: Integrating Verbal Input for Personalizing Learning Responses](papers/hllmi24_paper_4.pdf) | Puming Jiang and Nicole Salomons |
 | [Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Foundation Models](papers/hllmi24_paper_5.pdf) | Linus Nwankwo and Elmar Rueckert |
 | [An Overview of Dobby, A Conversational Service Robot](papers/hllmi24_paper_6.pdf) | Carson Stark, Bohkyung Chun, Casey Charleston, Varsha Ravi, Luis Pabon, Surya Sunkari, Tarun Mohan, Peter Stone and Justin Hart |
-| [Prototype of a Care Documentation Support System Using Audio Recordings of Care Actions and Large Language Models]() | Matthias Hirschmanner, Reinhard Grabler, Helena Anna Frijns, Evelyn Mayer-Haas and Markus Vincze |
+| [Prototype of a Care Documentation Support System Using Audio Recordings of Care Actions and Large Language Models](papers/hllmi24_paper_7.pdf) | Matthias Hirschmanner, Reinhard Grabler, Helena Anna Frijns, Evelyn Mayer-Haas and Markus Vincze |
 | [Toward LLM-Powered Robots In Engineering Education](papers/hllmi24_paper_8.pdf) | C. Estelle Smith, Alemitu Bezabih, Shadi Nourriz, Bo Wo and Gabe Fierro |
-| [Leveraging Vision and Language Models for Zero-Shot, Personalization of Household Multi-Object Rearrangement Tasks]() | Benjamin Newman, Pranay Gupta, Kris M. Kitani, Yonatan Bisk, Chris Paxton and Henny Admoni |
-| [Profiled with Purpose: LLMs’ Role in User Profiles for Personalized Conversations]() | Manasi Swaminathan, Long-Jing Hsu, Rasika Muralidharan, Weslie Khoo, David J. Crandall and Selma Šabanović |
-| [Enhancing Urban Data Analysis through Large Language Models: A Case Study with NYC 311 Service Requests]() | Hedaya Walter, Emily Portalatin-Mendez, Brian Smith, Jennifer Laird and Jorge Ortiz |
+| [Leveraging Vision and Language Models for Zero-Shot, Personalization of Household Multi-Object Rearrangement Tasks](papers/hllmi24_paper_9.pdf) | Benjamin Newman, Pranay Gupta, Kris M. Kitani, Yonatan Bisk, Chris Paxton and Henny Admoni |
+| [Profiled with Purpose: LLMs’ Role in User Profiles for Personalized Conversations](papers/hllmi24_paper_10.pdf) | Manasi Swaminathan, Long-Jing Hsu, Rasika Muralidharan, Weslie Khoo, David J. Crandall and Selma Šabanović |
+| [Enhancing Urban Data Analysis through Large Language Models: A Case Study with NYC 311 Service Requests](papers/hllmi24_paper_11.pdf) | Hedaya Walter, Emily Portalatin-Mendez, Brian Smith, Jennifer Laird and Jorge Ortiz |
 | [Perceived Credibility of LLM Responses in Search Contexts]() | Abhinav Choudhry, Kyrie Zhixuan Zhou and Rachel F. Adler |
 
 

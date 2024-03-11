@@ -65,7 +65,7 @@ Schedule:
 | [Leveraging Vision and Language Models for Zero-Shot, Personalization of Household Multi-Object Rearrangement Tasks](papers/hllmi24_paper_9.pdf) | Benjamin Newman, Pranay Gupta, Kris M. Kitani, Yonatan Bisk, Chris Paxton and Henny Admoni |
 | [Profiled with Purpose: LLMs’ Role in User Profiles for Personalized Conversations](papers/hllmi24_paper_10.pdf) | Manasi Swaminathan, Long-Jing Hsu, Rasika Muralidharan, Weslie Khoo, David J. Crandall and Selma Šabanović |
 | [Enhancing Urban Data Analysis through Large Language Models: A Case Study with NYC 311 Service Requests](papers/hllmi24_paper_11.pdf) | Hedaya Walter, Emily Portalatin-Mendez, Brian Smith, Jennifer Laird and Jorge Ortiz |
-| [Perceived Credibility of LLM Responses in Search Contexts]() | Abhinav Choudhry, Kyrie Zhixuan Zhou and Rachel F. Adler |
+| [Perceived Credibility of LLM Responses in Search Contexts](papers/hllmi24_paper_12.pdf) | Abhinav Choudhry, Kyrie Zhixuan Zhou and Rachel F. Adler |
 
 
 - 3:30 - 4:00 **Coffee Break**

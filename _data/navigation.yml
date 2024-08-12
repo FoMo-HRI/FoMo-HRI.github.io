@@ -2,6 +2,23 @@
 #   link: /workshop/call-for-papers
 # - name: Dates
 #   link: /workshop/call-for-papers#dates
+- name: HRI'25 Workshop
+  link: /workshop/hri25/#
+  dropdown:
+    # - name: Call for Papers
+    #   link: /workshop/hri24/call-for-papers
+    # - name: Important Dates
+    #   link: /workshop/hri24/call-for-papers#dates
+    # - name: Submission Guidelines
+    #   link: /workshop/hri24/call-for-papers#submission
+    # - name: Workshop Schedule
+    #   link: /workshop/hri24/program#schedule
+    # # - name: Speakers
+    # #   link: /workshop/hri24/program#panels
+    # # - name: Sponsors Page
+    # #   link: /workshop/hri24/sponsors/
+    # - name: Organising Team
+    #   link: /workshop/hri24/organisers
 - name: HRI'24 Workshop
   link: /workshop/hri24/#
   dropdown:

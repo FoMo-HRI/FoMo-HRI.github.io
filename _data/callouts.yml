@@ -6,21 +6,19 @@ items:
     icon: fa-handshake
     # icon: fa-hat-wizard
     description: >
-      Workshop during the 19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)
-    call_to_action_name: Schedule
-    call_to_action_link: /workshop/hri24/program
+      Workshop during the 19th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024) 
+    call_to_action_name: March 11, 2024 (Half-day workshop) 
+    call_to_action_link: /workshop/hri24
 
-  - title: Dates
-    subtitle: March 11, 2024 (Half-day workshop) 
+  - title: Human – Foundational Model Interaction
+    subtitle: FoMo – HRI 
     # icon: fa-trowel-bricks
     # icon: fa-paint-roller
     icon: fa-tools
     description: >
-      Submission deadline: February 2, 2024 
-
-      Notification of acceptance: February 23, 2024 
-    call_to_action_name: Submission Instructions
-    call_to_action_link: /workshop/hri24/call-for-papers
+      In Preparation workshop for the 20th International Conference on Human-Robot Interaction (HRI 2024) 
+    call_to_action_name: TBD
+    call_to_action_link: /workshop/hri25/
 
   # - title: Example callout 3
   #   subtitle: Example subtitle 3

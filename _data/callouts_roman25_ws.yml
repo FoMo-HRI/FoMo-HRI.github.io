@@ -1,0 +1,33 @@
+style: is-ligth
+height: is-medium
+items:
+  - title: 
+    subtitle: 
+    icon: fa-handshake
+    # icon: fa-hat-wizard
+    description: >
+      Submission deadline: TBD
+
+      Notification of acceptance: TBD
+    call_to_action_name: Call for Papers
+    call_to_action_link: /workshop/roman25/call-for-papers
+
+  - title: 
+    subtitle: 
+    icon: fa-calendar
+    description: >
+      
+      (Half-day workshop) 
+    call_to_action_name: Workshop Schedule
+    call_to_action_link: /workshop/roman25/program
+
+  - title: 
+    subtitle: 
+    icon: fa-users
+    # icon_brand: true
+    description: >
+      In Preparation
+    call_to_action_name: Organisers
+    call_to_action_link: /workshop/roman25/organisers
+
+  

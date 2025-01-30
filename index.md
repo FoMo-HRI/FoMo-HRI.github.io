@@ -44,16 +44,4 @@ Daniel Hernández García
 
 Marta Romeo
 
-Christian Dondrup
-
-Nancie Gunson
-
-Angus Addlesee
-
-Weronika Sieińska
-
-Oliver Lemon
-
-Alessandro Suglia
-
-Matthew Aylett -->
+-->

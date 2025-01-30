@@ -2,8 +2,10 @@
 #   link: /workshop/call-for-papers
 # - name: Dates
 #   link: /workshop/call-for-papers#dates
-- name: HRI'25 Workshop
-  link: /workshop/hri25/#
+# - name: HRI'25 Workshop
+#   link: /workshop/hri25/#
+- name: RO-MAN'25 Workshop
+  link: /workshop/roman25/#
   dropdown:
     # - name: Call for Papers
     #   link: /workshop/hri24/call-for-papers

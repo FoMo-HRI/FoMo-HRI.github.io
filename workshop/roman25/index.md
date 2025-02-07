@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Human – Foundational Models Interaction
+title: Human – Foundation Models Interaction
 subtitle: FoMo – HRI
-description: In this workshop, we want to gather, combine, compare, and share insights and knowledge across the wide HRI community on the pitfalls and opportunities that the application of Foundational Models, including LLMs, VLMs, multimodal models and generative AI, can present for HRI research.
+description: In this workshop, we want to gather, combine, compare, and share insights and knowledge across the wide HRI community on the pitfalls and opportunities that the application of Foundation Models, including LLMs, VLMs, multimodal models and generative AI, can present for HRI research.
 # image: /images/llm-hri-crayon-generated-image.png
 hero_height: is-medium
 # hero_image: /images/llm-hri-crayon-generated-image.png

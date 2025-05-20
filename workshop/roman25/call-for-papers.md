@@ -19,7 +19,7 @@ The workshop provides an important venue to encourage debate around issues conce
 
 We hope discussions will inform and guide the HRI community towards research that can leverage the potential of foundation models to enable multi-modal human-robot communication.  
 
-The workshop will take place on August 25, 2025 at Eindhoven, the Netherlands during the [IEEE Ro-Man Conference (ROMAN 2025)](https://www.ro-man2025.org/)
+The workshop will take place on August 25, 2025 at Eindhoven, the Netherlands during the [IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025)](https://www.ro-man2025.org/)
 
 ## Topics of Interest
 Topics of interest are anything related to the development, implementation, training/fine tuning, evaluation, and deployment of Foundation Models in Human-Robot Interaction scenarios. 

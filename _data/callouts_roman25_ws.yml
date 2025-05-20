@@ -6,9 +6,9 @@ items:
     icon: fa-handshake
     # icon: fa-hat-wizard
     description: >
-      Submission deadline: TBD
+      Submission deadline: June 23, 2025 
 
-      Notification of acceptance: TBD
+      Notification of acceptance: July 25, 2025 
     call_to_action_name: Call for Papers
     call_to_action_link: /workshop/roman25/call-for-papers
 
@@ -16,7 +16,8 @@ items:
     subtitle: 
     icon: fa-calendar
     description: >
-      
+      August, 25th 
+
       (Half-day workshop) 
     call_to_action_name: Workshop Schedule
     call_to_action_link: /workshop/roman25/program
@@ -26,7 +27,9 @@ items:
     icon: fa-users
     # icon_brand: true
     description: >
-      In Preparation
+      Questions? contact the
+
+      Organising team
     call_to_action_name: Organisers
     call_to_action_link: /workshop/roman25/organisers
 

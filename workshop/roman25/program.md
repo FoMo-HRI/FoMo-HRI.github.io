@@ -14,4 +14,6 @@ hero_height: is-medium
 css: ws25_page
 ---
 
-In progress ...
+The workshop will take place on August 25, 2025 at Eindhoven, the Netherlands during the [IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025)](https://www.ro-man2025.org/)
+
+The program will be comming soon...

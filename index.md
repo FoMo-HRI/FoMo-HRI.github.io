@@ -1,5 +1,5 @@
 ---
-title: Human – Large Language Model Interaction
+title: Human – Foundational Model Interaction
 # subtitle: The dawn of a new era or the end of it all?
 layout: page
 hero_height: is-medium

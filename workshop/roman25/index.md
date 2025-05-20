@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoMo – HRI
-subtitle: Human – Foundation Models Interaction: A Focus On Multimodal Information
+subtitle: Human – Foundation Models Interaction A Focus On Multimodal Information
 description: In this workshop, we want to gather, combine, compare, and share insights and knowledge across the wide HRI community on the pitfalls and opportunities that the application of Foundation Models, including LLMs, VLMs, multimodal models and generative AI, can present for HRI research.
 # image: /images/llm-hri-crayon-generated-image.png
 hero_height: is-medium

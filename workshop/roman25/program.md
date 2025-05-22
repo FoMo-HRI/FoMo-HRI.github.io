@@ -42,6 +42,6 @@ Schedule:
 | 13.30 – 13.45 | Introduction |  |
 | 13.45 – 15.15 | First Session |  |
 | 15.15 – 15.30 | Coffee break |  |
-<!-- | : |  |  | -->
 | 15.30 – 17.00 | Last Session |  |
 
+<!-- | : |  |  | -->

@@ -10,15 +10,15 @@
     - name: Call for Papers
       link: /workshop/roman25/call-for-papers
     # - name: Important Dates
-    #   link: /workshop/hri24/call-for-papers#dates
+    #   link: /workshop/roman25/call-for-papers#dates
     # - name: Submission Guidelines
-    #   link: /workshop/hri24/call-for-papers#submission
-    # - name: Workshop Schedule
-    #   link: /workshop/hri24/program#schedule
+    #   link: /workshop/roman25/call-for-papers#submission
+    - name: Workshop Schedule
+      link: /workshop/roman25/program#schedule
     # # - name: Speakers
-    # #   link: /workshop/hri24/program#panels
+    # #   link: /workshop/roman25/program#panels
     # # - name: Sponsors Page
-    # #   link: /workshop/hri24/sponsors/
+    # #   link: /workshop/roman25/sponsors/
     - name: Organising Team
       link: /workshop/roman25/organisers
 - name: HRI'24 Workshop

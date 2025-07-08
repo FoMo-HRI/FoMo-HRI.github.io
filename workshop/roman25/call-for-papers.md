@@ -45,11 +45,11 @@ We invite research regarding contributions about (but not limited to) the follow
 
 Important Dates (all deadlines are at 23:59 Anywhere on Earth time):
 
-- **Submission deadline:** June 23, 2025 
+- **Submission deadline:** July 25, 2025 
 
-- **Notification of acceptance:** July 25, 2025 
+- **Notification of acceptance:** August 10, 2025 
 
-- **Camera-ready deadline:** August 10, 2025 
+- **Camera-ready deadline:** August 20, 2025 
 
 
 **Workshop:** August 25, 2025 

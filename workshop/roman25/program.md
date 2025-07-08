@@ -34,14 +34,17 @@ This will be an afternoon half-day workshop.
 
 <!-- The [workshop](https://humanrobotinteraction.org/2024/workshops-and-tutorials/) will take place in the conference [venue](https://www.colorado.edu/umc/maps), room UMC 386 in the [University Memorial Center in the University of Colorado Boulder](https://maps.app.goo.gl/dTmh4GpLbLt3B7uQ6) -->
 
-The full program will be comming soon...
+<!-- The full program will be comming soon... -->
 
-Schedule: 
+Tentative Schedule: 
 
 | TIME | SESSION | COMMENTS |
 | 13.30 – 13.45 | Introduction |  |
-| 13.45 – 15.15 | First Session |  |
+| 13.45 – 14.45 | Session I | Participant Talks |
+| 14.45 – 15.15 | Session II | Network and Icebreaker |
 | 15.15 – 15.30 | Coffee break |  |
-| 15.30 – 17.00 | Last Session |  |
+| 15.30 – 16.15 | Session III | Collaborative Ideation |
+| 16.15 – 16.55 | Session IV | Anticipating Challenges |
+| 16.55 – 17.00 | Closing |  |
 
 <!-- | : |  |  | -->

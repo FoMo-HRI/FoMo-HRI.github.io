@@ -25,7 +25,7 @@ The conference will be hosted on the Eindhoven University of Technology (TU/e) c
 
 # [](#format)Format
 
-This will be an afternoon half-day workshop.
+This will be an afternoon half-day workshop, with interactive participatory activities. 
 
 <!-- Format and Activities: -->
 
@@ -48,3 +48,11 @@ Tentative Schedule:
 | 16.55 – 17.00 | Closing |  |
 
 <!-- | : |  |  | -->
+
+
+# [](#location)Location
+
+The workshop will take place in Auditorium 10 located on level 2 of the Auditorium building at TUe.
+
+![Room](/workshop/roman25/assets/image002.gif)
+![Map](/workshop/roman25/assets/TUe%20Campus%20Map%20RO-MAN2025.pdf)

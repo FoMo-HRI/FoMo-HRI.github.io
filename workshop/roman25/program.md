@@ -56,3 +56,5 @@ The workshop will take place in Auditorium 10 located on level 2 of the Auditori
 
 ![Room](/workshop/roman25/assets/image002.gif)
 ![Map](/workshop/roman25/assets/TUe%20Campus%20Map%20RO-MAN2025.pdf)
+<object data="/workshop/roman25/assets/TUe%20Campus%20Map%20RO-MAN2025.pdf" width="1000" height="1000" type='application/pdf'></object>
+

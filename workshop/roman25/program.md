@@ -41,15 +41,7 @@ Tentative Schedule:
 | TIME | SESSION | COMMENTS |
 | 13.30 – 13.45 | Introduction |  |
 | 13.45 – 14.45 | Session I | Participant Talks |
-|               |           |
-<!-- | Title | Authors | -->
-    - [Towards Multimodal Social Conversations with Robots: Using Vision-Language Models ]() -- Ruben Janssens 
-    - [“Kyorikan” : Unconscious Vocal Adjustments Based on Interlocutor Proximity]() -- Haruka Murakami 
-    - [Generative AI for Shared Story-building with a Social Robot to Improve Language Learner Engagement]() -- Eva Verhelst 
-    - [Enhancing Human–AI Collaboration in Air Traffic Control with Foundation Models]() -- Giuseppina Carannante 
-    - [A Value-Compliant Robot Vacuum Cleaner for the Home]() -- Giulio Antonio Abbo 
-    - [Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality]() -- Chao Wang 
-                                                |
+|               |           | - [Towards Multimodal Social Conversations with Robots: Using Vision-Language Models ]() -- Ruben Janssens <br> - [“Kyorikan” : Unconscious Vocal Adjustments Based on Interlocutor Proximity]() -- Haruka Murakami <br> - [Generative AI for Shared Story-building with a Social Robot to Improve Language Learner Engagement]() -- Eva Verhelst <br> - [Enhancing Human–AI Collaboration in Air Traffic Control with Foundation Models]() -- Giuseppina Carannante <br> - [A Value-Compliant Robot Vacuum Cleaner for the Home]() -- Giulio Antonio Abbo <br> - [Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality]() -- Chao Wang <br> |
 | 14.45 – 15.15 | Session II | Network and Icebreaker |
 | 15.15 – 15.30 | Coffee break |  |
 | 15.30 – 16.15 | Session III | Collaborative Ideation |
